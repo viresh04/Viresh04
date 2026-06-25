@@ -1,6 +1,10 @@
+<h1 align="center">Hi 👋, I'm Viresh Donagi</h1>
+<h3 align="center">A Passionate Software Engineer</h3>
 
-
-<h1 align="center">👋 Hi, I'm Viresh M Donagi</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="40%"  height="50%' alt="Coding">
+</p>
+<h1 align="center"> Viresh M Donagi</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-💻-blue" alt="Software Engineer">
   <img src="https://img.shields.io/badge/Passionate%20Coder-👩‍💻-purple" alt="Passionate Coder">
@@ -10,13 +14,6 @@
 
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Viresh04">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Viresh04&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="Viresh04's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Viresh04&theme=vue&hide_border=true&cache_seconds=86400" alt="Viresh04's GitHub Streak" width="49%" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -73,12 +70,20 @@
   </a>
 </p>
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Viresh04">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Viresh04&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="Viresh04's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Viresh04&theme=vue&hide_border=true&cache_seconds=86400" alt="Viresh04's GitHub Streak" width="49%" />
+</p>
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/viresh-donagi-70361819b/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/919916046288">
+  <a href="https://wa.me/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:Vireshdonagi146@gmail.com">
