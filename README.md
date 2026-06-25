@@ -8,10 +8,10 @@
   <img src="https://img.shields.io/badge/Software%20Engineer-💻-blue" alt="Software Engineer">
   <img src="https://img.shields.io/badge/Passionate%20Coder-👩‍💻-purple" alt="Passionate Coder">
   <img src="https://img.shields.io/badge/Life%20Long%20Learner-🌱-green" alt="Life Long Learner">
-  <img src="https://img.shields.io/badge/Bibliophile-📚-orange" alt="Bibliophile">
+  
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
