@@ -1,9 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Viresh%20M%20Donagi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-
+<!-- Animated girl image -->
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Viresh04">
-    <img src="https://komarev.com/ghpvc/?username=Viresh04&label=Profile%20views&color=00FFFF&style=flat-square" alt="Viresh04's profile views" />
-  </a>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+</p>
+
+<h1 align="center">👋 Hi, I'm Viresh M Donagi</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-💻-blue" alt="Software Engineer">
+  <img src="https://img.shields.io/badge/Passionate%20Coder-👩‍💻-purple" alt="Passionate Coder">
+  <img src="https://img.shields.io/badge/Life%20Long%20Learner-🌱-green" alt="Life Long Learner">
+  <img src="https://img.shields.io/badge/Bibliophile-📚-orange" alt="Bibliophile">
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
